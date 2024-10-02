@@ -1,0 +1,1 @@
+This Python calculator project demonstrates fundamental programming concepts, including object-oriented programming, event-driven programming, and error handling. By utilizing tkinter, it showcases how to create a functional and user-friendly GUI application in Python.
